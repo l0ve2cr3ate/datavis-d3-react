@@ -1,0 +1,11 @@
+.marks circle {
+  fill: var(--teal);
+}
+
+.marks path {
+  fill: none;
+  stroke: var(--teal);
+  stroke-width: 4;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}

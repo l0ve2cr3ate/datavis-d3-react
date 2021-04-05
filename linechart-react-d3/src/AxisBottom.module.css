@@ -1,0 +1,7 @@
+.tick line {
+  stroke: var(--gray-light);
+}
+
+.tick text {
+  fill: var(--gray-main);
+}

@@ -1,0 +1,8 @@
+.data {
+  font-size: 7rem;
+}
+
+.axis-label {
+  font-size: 2.5rem;
+  fill: var(--gray-main);
+}

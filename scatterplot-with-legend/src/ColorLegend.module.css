@@ -1,0 +1,4 @@
+.tick {
+  fill: var(--gray-main);
+  cursor: default;
+}

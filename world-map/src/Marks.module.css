@@ -1,0 +1,17 @@
+.marks .land {
+  fill: var(--teal);
+}
+
+.marks .interiors {
+  fill: none;
+  stroke: var(--teal-light);
+}
+
+.marks .sphere {
+  fill: var(--gray-lightest);
+}
+
+.marks .graticules {
+  fill: none;
+  stroke: #d0d0c8;
+}
